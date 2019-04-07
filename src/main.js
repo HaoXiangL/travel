@@ -4,8 +4,10 @@ import router from './router'
 
 // 引入css和fastclick库
 import fastClick from 'fastclick'
-import './assets/style/reset.css'
-import './assets/style/border.css'
+import 'style/reset.css'
+import 'style/border.css'
+// iconfont库引入
+import 'style/iconfont.css'
 
 Vue.config.productionTip = false
 fastClick.attach(document.body)
