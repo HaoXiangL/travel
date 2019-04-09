@@ -2,7 +2,7 @@
     <div>
         <div class="recommend-title"><img class="love" src="http://img1.qunarzz.com/piao/fusion/1711/89/ebc329f16c55bb02.png">猜你喜欢</div>
         <ul>
-            <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+            <li class="item border-bottom" v-for="item of list" :key="item.id">
                 <img class="item-img" :src="item.imgUrl">
                 <div class="item-info">
                     <p class="item-title">{{item.title}}</p>
@@ -17,26 +17,29 @@
 <script>
 export default {
   name: 'HomeRecommend',
-  data () {
-    return {
-      recommendList: [{
-        id: '001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
-        title: '肇庆七星岩',
-        desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
-      }, {
-        id: '002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
-        title: '肇庆七星岩',
-        desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
-      }, {
-        id: '003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
-        title: '肇庆七星岩',
-        desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
-      }]
-    }
+  props: {
+    list: Array
   }
+//   data () {
+//     return {
+//       recommendList: [{
+//         id: '001',
+//         imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
+//         title: '肇庆七星岩',
+//         desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
+//       }, {
+//         id: '002',
+//         imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
+//         title: '肇庆七星岩',
+//         desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
+//       }, {
+//         id: '003',
+//         imgUrl: 'http://img1.qunarzz.com/sight/p0/1710/21/21fc12509f773020a3.img.jpg_200x200_1cd6def9.jpg',
+//         title: '肇庆七星岩',
+//         desc: '七星岩位于广东省肇庆市，景区总面积达8.23平方公里，因七座石灰岩峰排列状如天上北斗七星而得名'
+//       }]
+//     }
+//   }
 }
 </script>
 

@@ -1,0 +1,126 @@
+{
+"ret": true,
+"data": {
+    "city": "肇庆",
+    "swiperList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg"
+        },
+        {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg"
+        },
+        {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+        },
+        {
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+        }
+    ],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "必游榜单"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b6b632b3ab5f5b40d8836f4c84c09530.png",
+        "desc": "游山玩水"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "desc": "自然风光"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "desc": "名胜古迹"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ee/5114069893722102.png",
+        "desc": "七星岩"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png",
+        "desc": "庙会祈福"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png",
+        "desc": "踏青赏光"
+      }, {
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+        "desc": "玩转长隆"
+      }, {
+        "id": "0011",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "desc": "山水风光"
+      }],
+    "recommendList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+            "title": "故宫",
+            "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+        },
+        {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_200x200_2458ffb2.jpg",
+            "title": "八达岭长城",
+            "desc": "不到长城非好汉"
+        },
+        {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_200x200_2cce447f.jpg",
+            "title": "颐和园",
+            "desc": "中国现存最大的皇家园林"
+        },
+        {
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/68/68aa05adb5315f9990.water.jpg_200x200_ce3d2658.jpg",
+            "title": "北京海洋馆",
+            "desc": "奇幻海洋之旅，在帝都感受大海的魅力"
+        },
+        {
+            "id": "0005",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/a5/a57e18e2084ec48190.water.jpg_200x200_60287f5d.jpg",
+            "title": "温都水城养生馆",
+            "desc": "各种亚热带植物掩映其间仿佛置身热带雨林"
+        }
+    ],
+    "weekendList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
+            "title": "北京温泉排行榜",
+            "desc": "细数北京温泉，温暖你的冬天"
+        },
+        {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+            "title": "北京必游TOP10",
+            "desc": "来北京必去的景点非这些地方莫属"
+        },
+        {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+            "title": "寻找北京的皇城范儿",
+            "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+        },
+        {
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
+            "title": "学生最爱的博物馆",
+            "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+        },
+        {
+            "id": "0005",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
+            "title": "儿童剧场，孩子的乐园",
+            "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+        }
+        ]
+    }
+}
